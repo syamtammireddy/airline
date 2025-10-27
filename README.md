@@ -68,13 +68,13 @@ import h5py
 Run **download_abide.py** to download the raw data:
 
 ```bash
-python download_abide.py --pipeline=cpac --strategy=filt_global
+!python download_abide.py --pipeline=cpac --strategy=filt_global
 ```
 
 To show demographic information of ABIDE I:
 
 ```bash
-python pheno_info.py
+!python pheno_info.py
 ```
 
 ---
